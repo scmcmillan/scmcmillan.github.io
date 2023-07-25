@@ -1,0 +1,15 @@
+@charset "UTF-8";
+h1  {
+    color: #C922CE;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    border-bottom: thick dotted #65EDFF;
+}
+body {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    background-color: #CFFFB3;
+}
